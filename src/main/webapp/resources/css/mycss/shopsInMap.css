@@ -1,0 +1,40 @@
+#map {
+    height: 100%;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration:none;
+}
+p{
+    display:inline-block;
+}
+.mydivcourier1{
+    width:100%;
+}
+.mydivcourier1{
+    padding-top:10px;
+    padding-left:13%;
+    color: #fff;
+    background:#666;
+    height:50px;
+}
+.mydivcourier1>p{
+    margin-right:20px;
+    font-size:20px;
+    text-align:center;
+    position:relative;
+    vertical-align:middle;
+}
+.mydivcourier1>p>a{
+    vertical-align:middle;
+    right:50px;
+    text-decoration:none
+}
+.mydivcourier1>p>a:hover{
+    color:white;
+}
+

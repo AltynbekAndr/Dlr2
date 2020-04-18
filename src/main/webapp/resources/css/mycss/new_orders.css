@@ -1,0 +1,53 @@
+a{
+    text-decoration:none;
+}
+p{
+    display:inline-block;
+}
+.mydivcourier1{
+    padding-left:13%;
+    color: #fff;
+    background:#666;
+    height:50px;
+    padding-top:10px;
+}
+.mydivcourier1>p{
+    margin-right:20px;
+    font-size:20px;
+    text-align:center;
+    position:relative;
+}
+.mydivcourier1>p>a{
+    color:white;
+    text-decoration:underline;
+    vertical-align:bottom;
+    right:50px;
+}
+.mydivcourier1>p>a:hover{
+    color:white;
+}
+.mydivcourier1>select{
+    color:black;
+    width:150px;
+    height:25px;
+}
+.row{
+    display:inline-block;
+    width:85%;
+    padding-left:25px;
+}
+.accepted{
+    background:#1DE9B6;
+    color:white;
+    font-weight:700;
+}
+.new{
+    background:#2196F3;
+    color:white;
+    font-weight:700;
+}
+.completed{
+    background:#FF5722;
+    color:white;
+    font-weight:700;
+}

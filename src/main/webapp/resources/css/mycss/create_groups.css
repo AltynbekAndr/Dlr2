@@ -1,0 +1,44 @@
+a{
+    text-decoration:none;
+}
+p{
+    display:inline-block;
+}
+.mydivcourier1{
+    padding-left:13%;
+    color: #fff;
+    background:#666;
+    height:50px;
+    padding-top:10px;
+}
+.mydivcourier1>p{
+    text-align:left;
+    font-size:20px;
+    position:relative;
+}
+.mydivcourier1>p>a{
+    vertical-align:bottom;
+    right:50px;
+    text-decoration:none;
+}
+.mydivcourier1>input[type=text]{
+    width:200px;
+    height:35px;
+    display:inline-block;
+    margin-right:15px;
+    placeholder-color:white;
+}
+.mydivcourier1>p>a:hover{
+    color:white;
+}
+
+select{
+    width:150px;
+    margin-left:15px;
+    border-radius:5px;
+}
+.row{
+    display:inline-block;
+    width:85%;
+    padding-left:25px;
+}

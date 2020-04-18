@@ -1,0 +1,21 @@
+.popup-container{
+    width:350px;
+    height:350px;
+}
+.container-img{
+    margin:0 auto;
+}
+.popup-container>.container-img>img{
+    max-width:76%;
+    height:250px;
+}
+.popup-container>div>a{
+    color:white;
+    text-decoration:underline;
+    font-weight:700;
+}
+.row{
+    display:inline-block;
+    width:85%;
+    padding-left:25px;
+}

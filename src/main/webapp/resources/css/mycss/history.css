@@ -1,0 +1,28 @@
+.rowfordate{
+    padding-top: 25px;
+    font-size:20px;
+    border-bottom:1px solid black;
+}
+.titlePDF{
+    background:red;
+    color:white;
+    padding-left:5px;
+    padding-right:5px;
+    border-radius:5px;
+
+}
+.accepted{
+    background:#1DE9B6;
+    color:white;
+    font-weight:700;
+}
+.new{
+    background:#2196F3;
+    color:white;
+    font-weight:700;
+}
+.completed{
+    background:#FF5722;
+    color:white;
+    font-weight:700;
+}

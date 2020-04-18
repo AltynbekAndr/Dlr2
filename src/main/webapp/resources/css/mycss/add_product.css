@@ -1,0 +1,78 @@
+.maincontainer{
+    padding:10px;
+
+}
+.main_category_container{
+    max-width:500px;
+    margin:0 auto;
+}
+select{
+    max-width:500px;
+    min-width:500px;
+    height:40px;
+    margin-bottom:15px;
+    border:2px solid #c7c6c6;
+}
+.textarea{
+    max-width:500px;
+    min-width:500px;
+    min-height:200px;
+    max-height:200px;
+    border:2px solid #c7c6c6;
+}
+input[type=file],input[type=submit]{
+    margin-top:15px;
+    margin-bottom:15px;
+    max-width:500px;
+    min-width:500px;
+}
+.contToCheckboxes{
+    max-width:500px;
+    margin-bottom:25px;
+}
+.contToCheckboxes>p,.contToCheckboxes>input{
+    width:22px;
+    height:22px;
+    color:black;
+    display:inline;
+    font-size:20px;
+    vertical-align:text-top;
+
+}
+.contToCheckboxes>p{
+    margin-right:15px;
+    margin-left:5px;
+}
+.field{
+    max-width:500px;
+    min-width:250px;
+    padding:8px;
+    border-radius:5px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border:2px solid #c7c6c6;
+    color:#666666;
+    display:inline-block;
+}
+input[name=product_weight],input[name=product_name],input[name=product_price],input[name=product_price_recommendation]{
+    max-width:500px;
+    min-width:500px;
+    margin-bottom:10px;
+    padding:8px;
+    border-radius:5px;
+    border:2px solid #c7c6c6;
+    color:#666666;
+}
+form>div>img{
+    max-width:100%;
+    margin-bottom:10px;
+}
+input[type=submit]{
+    max-width:500px;
+    min-width:500px;
+    margin-bottom:100px;
+    padding:8px;
+    border-radius:5px;
+    border:2px solid #c7c6c6;
+    color:#666666;
+}

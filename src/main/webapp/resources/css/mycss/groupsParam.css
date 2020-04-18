@@ -1,0 +1,11 @@
+.mydivcourier1{
+    padding-left:13%;
+    color: #fff;
+    background:#666;
+    height:50px;
+    padding-top:5px;
+}
+.mydivcourier1>h6{
+    font-size:20px;
+    vertical-align:middle;
+}

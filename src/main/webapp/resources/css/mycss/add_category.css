@@ -1,0 +1,48 @@
+input{
+    height:35px;
+    padding-left:10px;
+    padding-right:10px;
+}
+input[type=text]{
+    width:350px;
+    border-radius:5px;
+    margin-bottom:7px;
+    border:2px solid #a9a9a9;
+}
+input[type=submit],input[type=button]{
+    width:200px;
+    border-radius:5px;
+    border:1px solid #a9a9a9;
+    margin-bottom:1px;
+}
+form{
+    width:400px;
+    text-align:center;
+    padding-top:1%;
+}
+.row{
+    padding-top:15px;
+}
+.row>div,form{
+    display:inline-block;
+    float:left;
+}
+.row>div{
+    border-right:1px solid gray;
+    padding-right:15px;
+}
+.row>div>h4{
+    text-decoration:underline;
+}
+.row>div>p{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    color:gray;
+    width:250px;
+    font-size:18px;
+    text-transform:uppercase;
+}
+.linkName{
+    text-transform:uppercase;
+}
